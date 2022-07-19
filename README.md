@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asangkla00
 - 👀 I’m interested in data science and quantitative analytics
-- 🌱 I’m currently learning data science and quantitative trading
+- 🌱 I’m currently working in data science and quantitative environment
 
 
 <!---
